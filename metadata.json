@@ -1,0 +1,8 @@
+{
+  "name": "CareerAI: AI Resume & Career Intelligence",
+  "description": "A comprehensive AI-powered platform for resume building, ATS optimization, skill gap analysis, and interview preparation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
